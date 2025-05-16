@@ -1,12 +1,12 @@
+<!-- logo SQLDICAS inicio-->
+<img src="https://github.com/willdegl4n/curriculo/blob/main/img/qrcodelinkedin.png" width="200px" align="right" alt="SQL Dicas" />
+<!-- logo SQLDICAS fim-->
+
 # Willdeglan de Sousa Santos
 
 📍 Valparaíso de Goiás-GO | 📞 (61) 98127-9687  <br>
 📧 willdeglan@gmail.com  | 💻 GitHub [willdegl4n](https://github.com/willdegl4n) <br>
 🌐 Linkedin [willdeglan](https://www.linkedin.com/in/willdeglan/) | 🔗 Canal Linkedin: [@SQLDicas](https://www.linkedin.com/company/sqldicas)
-
-<!-- logo SQLDICAS inicio-->
-<img src="![image](img/qrcodelinkedin.png)" width="200px" align="right" alt="SQL Dicas" />
-<!-- logo SQLDICAS fim-->
 
 ---
 
